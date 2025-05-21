@@ -1,9 +1,5 @@
-This project is built with:
+Math challenge for kids to get faster at math operations.
+Vibe coded with lovable.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
+![img.png](img.png)
+![img_1.png](img_1.png)
